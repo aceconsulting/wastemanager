@@ -1,0 +1,65 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+.web_title{
+    color:forestgreen;
+    text-align:left;
+}
+.container{
+    max-height:70px;
+}
+.home
+{
+    text-align:right;
+    color:dodgerblue;
+}
+.service
+{
+    text-align:right;
+    color:dodgerblue;
+}
+.service1
+{
+    text-align:right;
+    color:dodgerblue;
+}
+.about{
+    text-align:right;
+    color:dodgerblue;
+}
+.col-md-4{
+    padding-top:1cm;
+}
+.col-md-8{
+    padding-top:1cm;
+}
+.nav navbar-nav{
+       color:dodgerblue;
+}
+.body1{
+    background-color:cadetblue;
+}
+.pull-right{
+    float:right !important;
+}

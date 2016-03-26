@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CleanupModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Cleanup_providers">
+    <Key>
+      <PropertyRef Name="cleanid" />
+    </Key>
+    <Property Name="cleanid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Companyname" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="locality" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="masterEntities3" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Cleanup_providers" EntityType="Self.Cleanup_providers" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,50 @@
+﻿
+           @{
+                ViewBag.Title = "Home Page";
+                Layout = "~/Views/Shared/_Layout.cshtml";
+            }
+                <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+                       
+                 @Scripts.Render("~/Scripts/jquery.bxslider.min.js")
+                 @Scripts.Render("~/Scripts/jquery.bxslider.js")
+                 @Styles.Render("~/Content/jquery.bxslider.css")
+                 @Scripts.Render("~/Scripts/myScript1.js")
+                 @Styles.Render("~/Content/Site.css")
+<div class="body1">
+    <div class="row">
+        <div class="col-md-4">
+            <div class="btn-group-vertical pull-right">
+                <div class="row">
+                    <p><a class="btn btn-primary btn-lg btn-block">How to deal with my waste?</a></p>
+                </div>
+                <div class="row">
+                    <p><a class="btn btn-primary btn-lg btn-block">Environment Quality in your area? </a></p>
+                </div>
+                <div class="row">
+                    <p><a class="btn btn-primary btn-lg  btn-block">List of Clean-up service provider </a></p>
+                </div>
+                <div class="row">
+                    <p><a class="btn btn-primary btn-lg btn-block">Your review </a></p>
+                </div>
+                <div class="row">
+                    <p>
+                        <a class="btn btn-primary btn-lg btn-block ">
+                            I'm your waste disposal service.<br />
+                            If you have no idea how to deal with your<br />
+                            waste, feel free to look it up and I am further <br />
+                            than an advisor.:)<br />
+                        </a>
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-8">
+
+
+            <ul class="bxslider">
+                <li><img src="~/Content/air-quality5.jpg" /></li>
+                <li><img src="~/Content/agua.jpg" /></li>
+            </ul>
+        </div>
+    </div>
+</div>

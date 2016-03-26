@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="masterModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6013: The table/view 'master.dbo.Cleanup_providers' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="Cleanup_providers">
+          <Property Name="Companyname" Type="nvarchar" MaxLength="255" />
+          <Property Name="locality" Type="nvarchar" MaxLength="255" />
+        </EntityType>-->
+  <EntityType Name="postcodes_geo">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="postcode" Type="varchar" MaxLength="5" />
+    <Property Name="suburb" Type="varchar" MaxLength="100" />
+    <Property Name="state" Type="varchar" MaxLength="4" />
+    <Property Name="latitude" Type="decimal" Precision="6" Scale="3" />
+    <Property Name="longitude" Type="decimal" Precision="6" Scale="3" />
+  </EntityType>
+  <EntityContainer Name="masterModelStoreContainer">
+    <EntitySet Name="postcodes_geo" EntityType="Self.postcodes_geo" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

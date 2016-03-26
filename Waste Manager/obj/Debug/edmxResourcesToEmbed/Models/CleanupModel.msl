@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CleanupModelStoreContainer" CdmEntityContainer="masterEntities3">
+    <EntitySetMapping Name="Cleanup_providers">
+      <EntityTypeMapping TypeName="CleanupModel.Cleanup_providers">
+        <MappingFragment StoreEntitySet="Cleanup_providers">
+          <ScalarProperty Name="cleanid" ColumnName="cleanid" />
+          <ScalarProperty Name="Companyname" ColumnName="Companyname" />
+          <ScalarProperty Name="locality" ColumnName="locality" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

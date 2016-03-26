@@ -1,0 +1,69 @@
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\roslyn\csc.exe
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\roslyn\vbc.exe
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\roslyn\VBCSCompiler.exe
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\Waste Manager.dll.config
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\Waste Manager.dll
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\Waste Manager.pdb
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\Antlr3.Runtime.dll
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\EntityFramework.dll
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\EntityFramework.SqlServer.dll
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\Microsoft.Owin.dll
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\Microsoft.Owin.Security.dll
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\Newtonsoft.Json.dll
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\Owin.dll
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\System.Web.Helpers.dll
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\System.Web.Mvc.dll
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\System.Web.Optimization.dll
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\System.Web.Razor.dll
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\System.Web.WebPages.Deployment.dll
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\System.Web.WebPages.dll
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\System.Web.WebPages.Razor.dll
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\WebGrease.dll
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\System.Web.Helpers.xml
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\System.Web.Mvc.xml
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\System.Web.Optimization.xml
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\System.Web.Razor.xml
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\System.Web.WebPages.xml
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\System.Web.WebPages.Deployment.xml
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\System.Web.WebPages.Razor.xml
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\Antlr3.Runtime.pdb
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\Newtonsoft.Json.xml
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\EntityFramework.xml
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\EntityFramework.SqlServer.xml
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\Microsoft.Owin.xml
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\Microsoft.Owin.Security.xml
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\obj\Debug\Waste Manager.csprojResolveAssemblyReference.cache
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\obj\Debug\Waste Manager.dll
+C:\Users\chenjieFang\documents\visual studio 2015\Projects\Waste Manager\Waste Manager\obj\Debug\Waste Manager.pdb
